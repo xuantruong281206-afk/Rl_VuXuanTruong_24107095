@@ -6,3 +6,6 @@ __pycache__/
 .DS_Store
 .vscode/
 .idea/
+__pycache__/
+.ipynb_checkpoints/
+Lab03/data/*.pkl
